@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/front-end-mentor-challenges/tree/advice-generator-app)
+- [Solution URL Here](https://github.com/AbuEisha/advice-generator-app)
 - [Live Site URL Here](https://advice-generator-app-live.pages.dev/)
 
 ## My process
